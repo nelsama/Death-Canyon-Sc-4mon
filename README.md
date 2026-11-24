@@ -3,6 +3,11 @@
 Shooter vertical original en ensamblador 6502 (ca65) para un computador 6502
 sobre FPGA Tang Nano 9K, con vídeo por tiles y sprites y sonido SID.
 
+| | |
+|---|---|
+| ![Menú](docs/img/menu.png) | ![Zona de lava](docs/img/lava.png) |
+| ![Zona de hielo con viento](docs/img/hielo.png) | ![Jefe de la zona 1](docs/img/jefe.png) |
+
 Pilota una sonda por un cañón volcánico vigilando el **calor**: disparar y
 acercarse a la lava lo suben; si llega al tope, los sistemas se apagan.
 
